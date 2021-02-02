@@ -5,6 +5,7 @@ LoanLink is an iOS application that allows the user to manage and payoff their s
 LoanLink is still in development and will be Launching its Beta in Spring of 2021.
 It is projected to be launched to the App Store in Q4 2021.
 Check out https://www.instagram.com/loanlink.io/ for new features and development updates.
+Sign up for our beta at https://www.loanlink.io/ launching Spring 2021.
 
 # Integration
 LoanLink incorperates API's including Rightfoot and Plaid. We keep the security integrity due to never accessing the users banking information. The loans are run through various algorithm that spit out a customized payment plan for each user that saves them money and time. In addition, the use is able to payoff their loans right in the app.
