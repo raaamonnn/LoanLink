@@ -8,7 +8,7 @@ Check out https://www.instagram.com/loanlink.io/ for new features and developmen
 Sign up for our beta at https://www.loanlink.io/ launching Spring 2021.
 
 # Integration
-LoanLink incorperates API's Plaid to keep the security integrity due to never accessing the users banking information. The loans are run through various algorithm that spit out a customized payment plan for each user that saves them money and time. In addition, the use is able to payoff their loans right in the app.
+LoanLink incorperates Plaid to keep the security integrity due to never accessing the users banking information. The loans are run through various algorithm that spit out a customized payment plan for each user that saves them money and time. In addition, the use is able to payoff their loans right in the app.
 
 # Mission Statement
 Americans are currently drowning in student debt, reaching a record of $1.6 trillion. Our purpose is to help Americans reach financial stability by aiding them in their mission to repay their student debt while efficiently managing their time and money.
